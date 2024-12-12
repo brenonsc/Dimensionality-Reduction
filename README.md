@@ -1,4 +1,4 @@
-# Dimensionality-Reduction-DIO
+# Dimensionality-Reduction
 
 Este repositório contém um exemplo de aplicação prática de redução de dimensionalidade usando imagens, projetado para ser executado no Google Colab. O código processa uma imagem, convertendo-a para tons de cinza e binário, e exibe os resultados lado a lado.
 <br><br>
